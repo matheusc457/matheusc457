@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Matheus 👋
 
-<!--
-**matheusc457/matheusc457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems and low-level programming enthusiast
+🐧 Arch Linux
+🪟 I3 Window Manager
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech & Tools
+- C (GCC / Clang)
+- Linux (Arch Linux)
+- Git / GPG (signed commits)
+- Shell Scripting
+- Android kernel & system modding
+
+--
+
+## 📌 What I work on
+- System programming in C
+- Terminal-based tools and CLI utilities
+- Linux internals and low-level experiments
+- Custom Android kernels and root-related projects
+
+---
+
+### 🧪 Current interests
+- Linux kernel and userspace interaction
+- Code integrity and security
+- Minimal and efficient software
+- Tooling for developers and power users
+
+---
+
+### 📫 Contact
+- Github: @matheusc457
+
+---
+
+> "Simple code, clear intent, full control"
