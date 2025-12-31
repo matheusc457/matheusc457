@@ -13,7 +13,7 @@
 - Shell Scripting
 - Android kernel & system modding
 
---
+---
 
 ## 📌 What I work on
 - System programming in C
