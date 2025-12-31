@@ -1,8 +1,8 @@
 ## Hi, I'm Matheus 👋
 
-💻 Systems and low-level programming enthusiast
-🐧 Arch Linux
-🪟 I3 Window Manager
+💻 Systems and low-level programming enthusiast  
+🐧 Arch Linux  
+🪟 I3 Window Manager  
 
 ---
 
