@@ -22,6 +22,17 @@
 - Custom Android kernels and root-related projects
 
 ---
+## 🌐 Participated Translations
+I contributed translations for **Droidspaces** in the following languages:  
+- Portuguese  
+- Hindi  
+- French  
+- German  
+- Russian
+
+> Note: Droidspaces is not an open-source project, these translations were contributions to the app's localization.
+
+---
 
 ### 🧪 Current interests
 - Linux kernel and userspace interaction
