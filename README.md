@@ -44,7 +44,7 @@ I contributed translations for **Droidspaces** in the following languages:
 
 ### 📫 Contact
 - Github: @matheusc457
-
+- GitLab: @matheusc457
 ---
 
 > "Simple code, clear intent, full control"
