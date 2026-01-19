@@ -9,7 +9,6 @@
 ### 🔧 Tech & Tools
 - C (GCC / Clang)
 - Linux (Arch Linux)
-- Git / GPG (signed commits)
 - Shell Scripting
 - Android kernel & system modding
 
