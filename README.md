@@ -2,7 +2,7 @@
 
 💻 Systems and low-level programming enthusiast  
 🐧 Arch Linux  
-🪟 I3 Window Manager  
+🪟 Sway Window Manager  
 
 ---
 
